@@ -1,3 +1,8 @@
 172.18.0.1 - - [13/Sep/2018:09:32:07 +0000] "GET /global.js HTTP/1.1" 404 169 "http://localhost:8080/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
 172.18.0.1 - - [13/Sep/2018:09:32:07 +0000] "GET /favicon.ico HTTP/1.1" 404 169 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
 172.18.0.1 - - [13/Sep/2018:09:32:07 +0000] "GET /favicon.ico HTTP/1.1" 404 169 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
+172.18.0.1 - - [13/Sep/2018:14:09:19 +0000] "GET / HTTP/1.1" 200 446 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
+172.18.0.1 - - [13/Sep/2018:14:28:29 +0000] "GET / HTTP/1.1" 200 446 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
+172.18.0.1 - - [13/Sep/2018:14:30:58 +0000] "GET / HTTP/1.1" 200 446 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
+172.18.0.1 - - [13/Sep/2018:14:31:01 +0000] "GET / HTTP/1.1" 200 446 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
+172.18.0.1 - - [13/Sep/2018:14:31:02 +0000] "GET / HTTP/1.1" 200 446 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
