@@ -1,0 +1,14 @@
+composer-install:
+	docker-compose exec phalcon composer install
+
+composer-update:
+	docker-compose exec phalcon composer update
+
+start:
+	docker-compose up -d
+
+stop:
+	docker-compose down
+
+rebuild:
+	docker-compose build --no-cache
